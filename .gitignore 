@@ -20,5 +20,6 @@ logs/
 project/*-shim.sbt
 project/project/
 project/target/
+spark-warehouse
 .scala_dependencies
 .worksheet
