@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/lerbav/workspace/spark-sql-test/build.sbt","221e44dc47c14f243c92da715bfe1b4c53ff6dfa"],["/home/lerbav/workspace/spark-sql-test/project/assembly.sbt","46f9c2c8dca5d680e1a3b74f9419682f13d32e7e"]],"lastModifiedTimes":[]}]
