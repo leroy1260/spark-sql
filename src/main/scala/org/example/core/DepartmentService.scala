@@ -1,7 +1,7 @@
 package org.example.core
 
 import org.apache.spark.sql.functions.{col, count, expr, max}
-import org.apache.spark.sql.{DataFrame, Row, SaveMode}
+import org.apache.spark.sql.{Row, SaveMode}
 import org.example.ExecutionContext
 import org.example.beans.{Department, EmployeeDepartmentInfo}
 
